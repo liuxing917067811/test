@@ -1,0 +1,12 @@
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\bin\Debug\NPOIExportExcel.dll
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\bin\Debug\NPOIExportExcel.pdb
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\bin\Debug\NPOI.dll
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\bin\Debug\NPOI.OOXML.dll
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\obj\Debug\NPOIExportExcel.csprojAssemblyReference.cache
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\obj\Debug\NPOIExportExcel.csproj.CoreCompileInputs.cache
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\obj\Debug\NPOIExportExcel.csproj.CopyComplete
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\obj\Debug\NPOIExportExcel.dll
+C:\Users\lx\source\repos\NPOIExportExcel\NPOIExportExcel\obj\Debug\NPOIExportExcel.pdb
